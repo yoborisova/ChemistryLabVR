@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrchemlab.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\YoannaStuff\\ChemistryLabinVR\\VRChemLab\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRChemLab [Testing]"
+        }
+      }
+    }
+  ]
+}
